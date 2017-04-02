@@ -1,0 +1,134 @@
+/* Title, Description, Background */
+body {
+  background-color: #e74c3c;
+
+}
+
+ .topnav a {
+  color: black;
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FFFFFF;
+  color:#e74c3c;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #e74c3c;
+  color: black;
+}
+a{
+  color: #FFFFFF;
+}
+#header {
+  background-color: #FFFFFF;
+  padding-left: 35px;
+  padding-bottom: -30px;
+  margin-bottom: -35px;
+  margin-left: -10px;
+  margin-right:-10px;
+}
+#header h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 5em;
+  color: #e74c3c;
+
+  /*border: 5px solid white;*/
+}
+p{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.25em;
+  color: #FFFFFF;
+}
+
+/*The Game*/
+button{
+  display: block;
+}
+#resources{
+  background-color: #FFFFFF;
+  padding: 10px;
+}
+.contact h1{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2em;
+  color: #FFFFFF;
+}
+#contact{
+  display:inline-block;
+  padding: 10px;
+}
+#resources h1{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2em;
+  color: #e74c3c;
+}
+#level{
+  margin:auto;
+}
+#level button{
+  display: inline-block;
+  border: none;
+  background-color: #FFFFFF;
+  font-size: 20px;
+}
+#level h2{
+  font-size: 1.5em;
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 20px;
+}
+#level p{
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5em;
+  color: #FFFFFF;
+  text-align: left;
+}
+#scenario{
+  border: 10px solid black;
+  padding: 10px;
+  height: 35em;
+  width: 50em;
+}
+#game a img{
+  border: 10px solid black;
+  padding: 10px;
+  height: 35em;
+  width: 50em;
+}
+
+#level{
+  width:75em;
+  height: 20em;
+  border: 10px solid black;
+  padding: 10px;
+  margin: 2.5em;
+}
+#level1{
+  width:25em;
+  height: 15em;
+  padding: 2.5em;
+}
+#text{
+  border: 10px solid black;
+  padding: 10px;
+  width:75em;
+}
+
+footer{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  color: #FFFFFF;
+}
